@@ -1,9 +1,6 @@
 # Tema 4 - Client web. Comunicaţie cu REST API.
-# Zugravescu Adina Andreea 322CD
 
-Am realizat implementarea acestei teme pornind de la Laboratorul 9, folosind scheletul sau de cod si implementarea proprie.
-
-Clientul implementat interpreteaza corect **toate** comenzile cerute in tema si afiseaza mesaje sugestive catre utilizator. Ruleaza corect **toate** script-urile oferite, inclusiv ALL si nospace.
+Clientul implementat interpreteaza corect comenzile cerute si afiseaza mesaje sugestive catre utilizator. Ruleaza corect **toate** script-urile oferite, inclusiv ALL si nospace.
 
 Am ales utilizarea bibliotecii parson (https://github.com/kgabis/parson), aceasta fiind cea recomandata si am utilizat-o in formatarea payload-ului; afisarea proprie respecta, de asemenea, formatul dorit, parsandu-se raspunsul primit si afisandu-se datele dupa modelul "proprietate": valoare, continutul fiind unul usor de procesat.
 
